@@ -24,8 +24,7 @@ Load the dataset and begin EDA in the `notebooks/` folder.
 
 ---
 
-<pre><code>📁 Folder Structure (planned): customer-segmentation/ ├── data/ # Raw and processed data │ ├── raw/ │ └── processed/ ├── notebooks/ # Analysis and clustering notebooks ├── models/ # Trained models (e.g. KMeans .pkl) ├── outputs/ # Visualizations and final insights ├── scripts/ # Preprocessing, clustering, and visualization scripts ├── README.md # Project overview └── requirements.txt # Python dependencies </code></pre>
-
+<pre><code>📁 Folder Structure (planned): customer-segmentation/ ├── data/ # Raw and processed data │ ├── raw/ │ └── processed/ ├── notebooks/ # Analysis and clustering notebooks ├── models/ # Trained models (e.g. KMeans .pkl) ├── outputs/ # Visualizations and final insights ├── scripts/ # Preprocessing, clustering, and visualization scripts ├── README.md # Project overview ├── requirements.txt # Python dependencies └── .gitignore </code></pre>
 
 
 💡 This project is part of a 3-project portfolio (with Churn Prediction and Market Basket Analysis).
