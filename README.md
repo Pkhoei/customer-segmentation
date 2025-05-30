@@ -24,13 +24,7 @@ Load the dataset and begin EDA in the `notebooks/` folder.
 
 ---
 
-📁 Folder Structure (planned):
-
-customer-segmentation/
-├── data/ # Raw and processed data
-├── notebooks/ # Analysis and clustering notebooks
-├── reports/ # Visualizations and final insights
-├── README.md # Project overview
+<pre><code>📁 Folder Structure (planned): customer-segmentation/ ├── data/ # Raw and processed data │ ├── raw/ │ └── processed/ ├── notebooks/ # Analysis and clustering notebooks ├── models/ # Trained models (e.g. KMeans .pkl) ├── outputs/ # Visualizations and final insights ├── scripts/ # Preprocessing, clustering, and visualization scripts ├── README.md # Project overview └── requirements.txt # Python dependencies </code></pre>
 
 
 
